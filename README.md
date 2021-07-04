@@ -1,2 +1,2 @@
 # terraform-code
-My terraform codes, Using AWS as Provider !
+Using my code in terraform, My provider is AWS !
