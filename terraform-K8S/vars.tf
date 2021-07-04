@@ -4,7 +4,7 @@ variable "cluster-name" {
 }
 
 
-# [For test]
+# [-For test-]
 # variable "AWS_REGION" {
 #   default = "us-west-2"
 # }
