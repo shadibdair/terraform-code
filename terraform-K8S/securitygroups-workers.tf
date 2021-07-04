@@ -1,5 +1,5 @@
 # Here we have a security group for the terraform EKS "stage node".
-# workers
+# Workers
 resource "aws_security_group" "stage-node" {
   name        = "terraform-eks-stage-node"
   description = "Security group for all nodes in the cluster"
