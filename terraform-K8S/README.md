@@ -1,3 +1,4 @@
-## Hey ! :smile:
-> You can see her my instances running the type is t2.medium .
- <image>shadibdair/terraform-code/terraform-K8S/AWS_Instances.png</image>
+<h2> Hey! </h2>
+
+**You can see her my instances running the type is t2.medium .**
+
