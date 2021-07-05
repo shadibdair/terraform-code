@@ -64,4 +64,8 @@ Using my code in terraform, My provider is AWS !
 
 *We don't want it to be you use one tool to manage this and you have ti figure out how you get past this disjoint to manage the next section and then another disjoint experience and you have to piece together these things.*
 
-:sparkles:	:reminder_ribbon:	:dart:	
+:sparkles:	:reminder_ribbon:	:dart:
+
+---
+---
+<h3>:interrobang:Best Question:</h3> 
