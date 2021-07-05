@@ -26,7 +26,7 @@ Using my code in terraform, My provider is AWS !
 - :mage_man:The terraform config file, It's what you want your infrastructure to look like.
     - Terraform configuration is a complete document in the Terraform language that tells Terraform how to manage a given collection of infrastructure. A configuration can consist of multiple files and directories.
 ---
-**IaaS - Infrastructure As A Service**
+:pushpin:**IaaS - Infrastructure As A Service**
 - :diamonds:Providers : are how terraform connect out to the rest of the world.
     - Azure
     - AWS
@@ -36,13 +36,13 @@ Using my code in terraform, My provider is AWS !
     - OpenStack
     - VMware
 
-**PaaS - Platform As A Service**
+:pushpin:**PaaS - Platform As A Service**
 - :diamonds:Terraform can manage higher level things platforms as a service such:
     - Heroku
     - Kubernetes
     - lambdas 
 
-**SaaS - Software As A Service**
+:pushpin:**SaaS - Software As A Service**
 - :diamonds:Terraform also can manage pure software as a service very high level things maybe *monitoring* like : 
     - Datadog
     - Fastly
