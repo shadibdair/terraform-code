@@ -69,3 +69,25 @@ Using my code in terraform, My provider is AWS !
 ---
 ---
 <h3>:interrobang:Best Question:</h3> 
+
+> How manage terraform :question:
+
+:ballot_box_with_check:**We Start**
+
+:ballot_box_with_check:*A signal individual practitioner -> Who is using terraform locally and there workflow is to start by writing some terraform configuration, THEN they run **terraform plan**, plan tells them what is this configuration going to do ... what does terraform thinks needs to be done to apply these changes and if this looks good the practitioner will apply changes and this cycle continues to evolve the infrastructure*
+
+:ballot_box_with_check:*Now, we add multiple team members we have other people we want to collaborate on managing the same infrastructure*
+
+:ballot_box_with_check:**Well there's a few challanges much like with software writing**
+
+> How do we make sure we have a consistent view of what the configuration actually is and how do we make sure we don't step on each other's ... and run multiple changes in parallel :question:
+
+:ballot_box_with_check:*So this problem in some sense ends up being very similar to the problem of using git locally versus using git as a team ... So as we go to a team we use a system like github to provide that central collaboration and so our equivalent of that is what we terraform enterprise*
+--
+:ballot_box_with_check:**The terraform enterpris** : *workflow arugments*
+
+:ballot_box_with_check:*The state file is an important things to have centrally managed so it doesn't diverge or end up with sort of different lineages where you you know we fork off and then independently run terraform and now the state file conflict with one and another, So by managing that centrally we avoid those sort of conflicts* :trident:	
+
+----
+:yellow_circle:	:red_circle:	:large_blue_circle:	:brown_circle:	:green_circle:	
+----
