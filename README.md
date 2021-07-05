@@ -16,3 +16,7 @@ Using my code in terraform, My provider is AWS !
 
  
 ---- 
+
+<h1>Terraform</h1>
+Definition of **Provisioners** are used to execute scripts on a local or remote machine as part of resource creation or destruction. Provisioners can be used to bootstrap a resource, cleanup before destroy, run configuration management, etc.
+ 
