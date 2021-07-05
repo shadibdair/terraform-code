@@ -2,7 +2,7 @@
 Using my code in terraform, My provider is AWS !
 
 
-<h3> Some Tips </h3>
+<h3> Some Tips </h3>:smiling_face_with_three_hearts:
 
 1) Prefer to start with VPC.tf before I start with create the security group **NEXT** the VM then we can start with the LoadBalancer.
  --- 
@@ -16,16 +16,16 @@ Using my code in terraform, My provider is AWS !
 
  
 ---- 
-
+:hand: :eyes:	
 <h1>Terraform</h1>
 
-- Definition of Provisioners are used to execute scripts on a local or remote machine as part of resource creation or destruction. Provisioners can be used to bootstrap a resource, cleanup before destroy, run configuration management, etc.
+- :teacher:Definition of Provisioners are used to execute scripts on a local or remote machine as part of resource creation or destruction. Provisioners can be used to bootstrap a resource, cleanup before destroy, run configuration management, etc.
 
-- The terraform config file, It's what you want your infrastructure to look like.
+- :mage_man:The terraform config file, It's what you want your infrastructure to look like.
     - Terraform configuration is a complete document in the Terraform language that tells Terraform how to manage a given collection of infrastructure. A configuration can consist of multiple files and directories.
 ---
 **IaaS - Infrastructure As A Service**
-- Providers : are how terraform connect out to the rest of the world.
+- :merman:Providers : are how terraform connect out to the rest of the world.
     - Azure
     - AWS
     - GCP
