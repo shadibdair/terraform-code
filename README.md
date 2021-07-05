@@ -82,8 +82,10 @@ Using my code in terraform, My provider is AWS !
 
 > How do we make sure we have a consistent view of what the configuration actually is and how do we make sure we don't step on each other's ... and run multiple changes in parallel :question:
 
-:ballot_box_with_check:**So this problem in some sense ends up being very similar to the problem of using git locally versus using git as a team ... So as we go to a team we use a system like github to provide that central collaboration and so our equivalent of that is what we terraform enterprise**
---
+- :ballot_box_with_check: So this problem in some sense ends up being very similar to the problem of using git locally versus using git as a team ... So as we go to a team we use a system like github to provide that central collaboration and so our equivalent of that is what we terraform enterprise
+
+---
+
 :ballot_box_with_check:**The terraform enterpris** : *workflow arugments*
 
 :ballot_box_with_check:*The state file is an important things to have centrally managed so it doesn't diverge or end up with sort of different lineages where you you know we fork off and then independently run terraform and now the state file conflict with one and another, So by managing that centrally we avoid those sort of conflicts* :trident:	
