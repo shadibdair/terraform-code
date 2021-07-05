@@ -1,5 +1,6 @@
 # terraform-code
-:cloud:	:cloud:	:cloud:	:cloud:	
+:cloud:	:cloud:	:cloud:	:cloud:
+
 Using my code in terraform, My provider is AWS !
 
 
@@ -42,7 +43,7 @@ Using my code in terraform, My provider is AWS !
     - lambdas 
 
 **SaaS - Software As A Service**
-- Terraform also can manage pure software as a service very high level things maybe *monitoring* like : 
+- :diamonds:Terraform also can manage pure software as a service very high level things maybe *monitoring* like : 
     - Datadog
     - Fastly
     - Github
