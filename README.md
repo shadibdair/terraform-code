@@ -82,7 +82,7 @@ Using my code in terraform, My provider is AWS !
 
 > How do we make sure we have a consistent view of what the configuration actually is and how do we make sure we don't step on each other's ... and run multiple changes in parallel :question:
 
-:ballot_box_with_check:*So this problem in some sense ends up being very similar to the problem of using git locally versus using git as a team ... So as we go to a team we use a system like github to provide that central collaboration and so our equivalent of that is what we terraform enterprise*
+:ballot_box_with_check:**So this problem in some sense ends up being very similar to the problem of using git locally versus using git as a team ... So as we go to a team we use a system like github to provide that central collaboration and so our equivalent of that is what we terraform enterprise**
 --
 :ballot_box_with_check:**The terraform enterpris** : *workflow arugments*
 
