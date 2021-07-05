@@ -1,4 +1,5 @@
 # terraform-code
+:cloud:	:cloud:	:cloud:	:cloud:	
 Using my code in terraform, My provider is AWS !
 
 
@@ -16,7 +17,7 @@ Using my code in terraform, My provider is AWS !
 
  
 ---- 
-:hand: :eyes:	
+:hand: :eyes: :cloud:	
 <h1>Terraform</h1>
 
 - :teacher:Definition of Provisioners are used to execute scripts on a local or remote machine as part of resource creation or destruction. Provisioners can be used to bootstrap a resource, cleanup before destroy, run configuration management, etc.
@@ -30,12 +31,12 @@ Using my code in terraform, My provider is AWS !
     - AWS
     - GCP
 
-- They could be on-premise infrastructure.
+- :sun_behind_rain_cloud:They could be on-premise infrastructure.
     - OpenStack
     - VMware
 
 **PaaS - Platform As A Service**
-- Terraform can manage higher level things platforms as a service such:
+- :cloud_with_snow:Terraform can manage higher level things platforms as a service such:
     - Heroku
     - Kubernetes
     - lambdas 
@@ -47,7 +48,7 @@ Using my code in terraform, My provider is AWS !
     - Github
 ---
 
-- The infrastructure might composing all of these different resources.
+- :cloud_with_lightning_and_rain:The infrastructure might composing all of these different resources.
     > So I might have some set of my infrastructure that is:
     
     - **IaaS - Infrastructure As A Service**
@@ -57,3 +58,9 @@ Using my code in terraform, My provider is AWS !
     - DNS
 
 :star_struck:*All of these are important pieces of our infrastructure we can't deliver our application without the IaaS, PaaS and SaaS*
+
+**They're all part of our logical end-to-end delivery and what we want to get with terraform is a Signal unified workflow**
+
+*We don't want it to be you use one tool to manage this and you have ti figure out how you get past this disjoint to manage the next section and then another disjoint experience and you have to piece together these things.*
+
+:sparkles:	:reminder_ribbon:	:dart:	
