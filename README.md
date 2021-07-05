@@ -27,17 +27,17 @@ Using my code in terraform, My provider is AWS !
     - Terraform configuration is a complete document in the Terraform language that tells Terraform how to manage a given collection of infrastructure. A configuration can consist of multiple files and directories.
 ---
 **IaaS - Infrastructure As A Service**
-- :merman:Providers : are how terraform connect out to the rest of the world.
+- :diamonds:Providers : are how terraform connect out to the rest of the world.
     - Azure
     - AWS
     - GCP
 
-- :sun_behind_rain_cloud:They could be on-premise infrastructure.
+- :diamonds:They could be on-premise infrastructure.
     - OpenStack
     - VMware
 
 **PaaS - Platform As A Service**
-- :cloud_with_snow:Terraform can manage higher level things platforms as a service such:
+- :diamonds:Terraform can manage higher level things platforms as a service such:
     - Heroku
     - Kubernetes
     - lambdas 
