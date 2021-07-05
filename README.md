@@ -56,4 +56,4 @@ Using my code in terraform, My provider is AWS !
     - Services
     - DNS
 
-:star_struck: *All of these are important pieces of our infrastructure we can't deliver our application without the IaaS, PaaS and SaaS*
+:star_struck:*All of these are important pieces of our infrastructure we can't deliver our application without the IaaS, PaaS and SaaS*
